@@ -9,6 +9,7 @@ O App Filmes é um aplicativo Android desenvolvido em Java que consome a API pú
  > Consumo da API com Retrofit 2 e carregamento de imagens com Glide.
  > Estrutura de código modular e fácil de expandir.
 
+
  Tecnologias utilizadas
  > Java (Android)
  > Retrofit 2 — comunicação com a API REST
